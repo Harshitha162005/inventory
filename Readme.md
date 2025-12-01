@@ -1,6 +1,6 @@
 # clone the repo 
 ```bash
-git clone https://github.com/Yogesh-MG/inventory-os.git
+git clone https://github.com/Harshitha162005/inventory.git
 ```
 
 #### For The app apk follow the below commands
